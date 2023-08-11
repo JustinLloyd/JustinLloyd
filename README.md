@@ -2,7 +2,7 @@
 Location: Los Angeles
 Remote: Yes
 Willing to relocate: Maybe
-Technologies: C, C++, C#, Rust, Python, Ruby, Java, Typescript
+Technologies: C, C++, C#, Go, Rust, Python, Ruby, Java, Typescript
 Résumé/CV: https://justin-lloyd.com (Psst! scroll down & right)
 Email: wanted@justin-lloyd.com
 
